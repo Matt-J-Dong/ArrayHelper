@@ -1,7 +1,6 @@
 /**
  * 
  * @author Matthew Dong
- * @period 4
  */
 public class ArrayHelper {
 	
